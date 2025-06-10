@@ -1,11 +1,12 @@
 [build]
-  command = "npm run build"
+  command = "CI=false npm run build"
   publish = "build"
   base = "frontend"
 
 [build.environment]
   NODE_VERSION = "18"
   NPM_FLAGS = "--legacy-peer-deps"
+  CI = "false"
 
 [[redirects]]
   from = "/*"

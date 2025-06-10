@@ -6,7 +6,7 @@ import GardenMap from './garden/GardenMap';
 const Dashboard = () => {
   const [activeTab, setActiveTab] = useState('garden');
   const [isLoading, setIsLoading] = useState(true);
-  const [weatherData, setWeatherData] = useState({
+  const [weatherData] = useState({
     temperature: '22°C',
     humidity: '65%',
     forecast: 'Sunny'
