@@ -1,31 +1,36 @@
-# Community Garden Planner 🌱
+![AB1B8DC0-4C8A-417C-B3FB-C319DB2027EC](https://github.com/user-attachments/assets/d82ea33c-72ff-4e88-b271-0f9c8ba27bae)Community Garden Planner 🌱
 
 A comprehensive web application to help local communities manage their garden plots, watering schedules, and harvest logs.
 
-## Features
+ Features
 
 - 🗺️ Interactive Garden Map View
+- ![95CEFC79-62B4-45C7-A9B0-1E0A1C6D738A](https://github.com/user-attachments/assets/daa4a23e-7eb7-472e-9615-eed9cbdb583c)
 - 💧 Watering Schedule Management
+- ![3CB69F9B-3BB9-426E-BCC2-C197C5538DF4](https://github.com/user-attachments/assets/7aa02cd4-745c-4e3a-8806-6db82e3fba05)
 - 📝 Harvest Logging
+- ![AB1B8DC0-4C8A-417C-B3FB-C319DB2027EC](https://github.com/user-attachments/assets/b527395a-ac29-45a4-92da-f7a1d4bb291a)
 - 👥 Role-based Authentication
+- ![7805A1B3-8123-4DF5-B4BF-D52D4CAA3633](https://github.com/user-attachments/assets/ba64e5c1-3d9f-456a-b6e9-14108603f1ae)
+
 - 📅 Calendar Integration
 - 📊 Resource Tracking
 - ✅ Task Assignment System
 
-## Tech Stack
+ Tech Stack
 
-- **Frontend**: React.js, FullCalendar.js, TailwindCSS
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB
-- **Authentication**: JWT
+- Frontend: React.js, FullCalendar.js, TailwindCSS
+- Backend: Node.js, Express.js
+- Database: MongoDB
+- Authentication: JWT
 
-## Prerequisites
+ Prerequisites
 
 - Node.js (v14 or higher)
 - MongoDB
 - npm or yarn
 
-## Setup Instructions
+Setup Instructions
 
 1. Clone the repository
 2. Install dependencies:
@@ -57,7 +62,7 @@ A comprehensive web application to help local communities manage their garden pl
    npm start
    ```
 
-## Project Structure
+ Project Structure
 
 ```
 community-garden-planner/
@@ -66,6 +71,6 @@ community-garden-planner/
 └── README.md
 ```
 
-## License
+License
 
 MIT 
